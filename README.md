@@ -1,11 +1,11 @@
 # DESENVOLVIMENTO WEB II
-* ***CURSO:*** TADS IFPR-Foz 
-* ***PROFESSOR:*** Daniel di Domenico 
-* ***SEMESTRE:*** 2º
-* ***HORA AULA:*** 80h
-* ***HORA RELOGIO:*** 67h
+* **CURSO:** TADS IFPR-Foz 
+* **PROFESSOR:** Daniel di Domenico 
+* **SEMESTRE:** 2º
+* **HORA AULA:** 80h
+* **HORA RELOGIO:** 67h
 
-#### Tecnologias: PHP, Bootstrap, Framework Slim, MySQL
+- **Tecnologias:** PHP, Bootstrap, Framework Slim, MySQL
 
 ### Objetivo:
 Possibilitar ao aluno a compreensão e aplicação dos principais conceitos
