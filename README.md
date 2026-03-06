@@ -5,6 +5,8 @@
 * ***HORA AULA:*** 80h
 * ***HORA RELOGIO:*** 67h
 
+#### Tecnologias: PHP, Bootstrap, Framework Slim, MySQL
+
 ### Objetivo:
 Possibilitar ao aluno a compreensão e aplicação dos principais conceitos
 relacionados ao desenvolvimento de aplicativos web. Conhecer e aplicar uma
